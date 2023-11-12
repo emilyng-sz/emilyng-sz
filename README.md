@@ -1,16 +1,18 @@
-### Hi there 👋
+### 👋 Hi there!
+Welcome to my github page where I explore new solutions and experiment with all things data! 🚀 
 
-<!--
-**emilyng-sz/emilyng-sz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Emily, an undergraduate majoring in Data Science at NUS, interested in fields of 
+- Machine Learning
+- Data Engineering
+- Media Computing
 
-Here are some ideas to get you started:
+## 📬 Let's Connect!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm always open to collaboration and discussions. Reach out to me if you have ideas, questions, or just want to connect:
+
+- **LinkedIn:** https://www.linkedin.com/in/emily-ng-siew-zhang/
+- **Email:** emilyng.sz831@gmail.com
+
+## 🌐 Explore and Enjoy!
+
+Feel free to explore my projects, fork them, and let me know what you think. Happy coding :D 
