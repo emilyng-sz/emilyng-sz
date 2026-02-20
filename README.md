@@ -1,10 +1,13 @@
 ### 👋 Hi there!
 Welcome to my github page where I explore new solutions and experiment with all things data! 🚀 
 
-I am Emily, an undergraduate majoring in Data Science at NUS, interested in fields of 
-- Machine Learning
+I am Emily, a recent graduate from NUS Data Science, working in the data science and data engineering field.
+
+My interests include:
 - Data Engineering
 - Media Computing
+- Projects that automate manual work with code
+- Constant improvement of my code quality with new tools and concepts
 
 ## 📬 Let's Connect!
 
