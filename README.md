@@ -1,7 +1,7 @@
 ### 👋 Hi there!
 Welcome to my github page where I explore new solutions and experiment with all things data! 🚀 
 
-I am Emily, a recent graduate from NUS Data Science, working in the data science and data engineering field.
+I am Emily, a recent graduate from NUS Data Science and while I work in the data and AI field, I also explore the new tools and processes in today's every changing tech world.
 
 My interests include:
 - Data Engineering
